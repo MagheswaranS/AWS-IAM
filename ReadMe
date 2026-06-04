@@ -5,6 +5,7 @@
 Introduction to AWS Identity and Access Management (IAM)
 
 
+
 ## Objective
 The objective of this lab is to understand how AWS Identity and Access Management (IAM) controls authentication and authorization in AWS. The lab focuses on exploring IAM users and groups, analyzing attached policies, assigning users to appropriate groups based on organizational roles, and validating permissions by testing service access.
 
